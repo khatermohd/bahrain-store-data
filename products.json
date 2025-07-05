@@ -1,10 +1,4 @@
-[
-  {
-    "name": "شنطة نسائية",
-    "image": "https://example.com/bag1.jpg"
-  },
-  {
-    "name": "ساعة يد",
-    "image": "https://example.com/watch.jpg"
-  }
-]
+ { id: 1, name: " شنطة", description: "شنطة ورديه وابيض وازرق ", price: 5, image: "images/stitch.jpg" },
+  { id: 2, name: "شنطة نسائية", description: "شنطة ميكي ماوس ورديه  ", price: 3.5, image:"images/mikimousapink.jpg"   },
+  { id: 3, name: "شنطة ", description: "شنطة ميكي ماوس اسود وابيض  ", price: 5, image: "images/miki.jpg" }
+];
