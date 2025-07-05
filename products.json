@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "شنطة",
-    "description": "شنطة ورديه وابيض وازرق",
+    "description": "شنطة وردية وأبيض وأزرق",
     "price": 5,
     "image": "images/stitch.jpg"
   },
   {
     "id": 2,
     "name": "شنطة نسائية",
-    "description": "شنطة ميكي ماوس ورديه",
+    "description": "شنطة ميكي ماوس وردية",
     "price": 3.5,
     "image": "images/mikimousapink.jpg"
   },
   {
     "id": 3,
     "name": "شنطة",
-    "description": "شنطة ميكي ماوس اسود وابيض",
+    "description": "شنطة ميكي ماوس أسود وأبيض",
     "price": 5,
     "image": "images/miki.jpg"
   }
